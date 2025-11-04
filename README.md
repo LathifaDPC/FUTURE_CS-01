@@ -86,7 +86,7 @@ With proper security controls and re-testing, these issues can be fully remediat
 
 
 
-📚 10. **References**
+📚 9. **References**
 
 https://owasp.org/www-project-juice-shop/
 
