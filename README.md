@@ -84,18 +84,7 @@ Critical vulnerabilities such as SQL Injection, XSS, CSRF, and IDOR were success
 
 With proper security controls and re-testing, these issues can be fully remediated.
 
-📁 9. **Repository Structure (Suggestion)**
-/Security-Assessment-Report/
-│── README.md  (This report)
-│── /screenshots/
-│     ├── sql_injection.png
-│     ├── xss_attack.png
-│     ├── csrf_exploit.png
-│     ├── idor_proof.png
-│── /zap-report/
-│     ├── zap_scan.html
-│── /burp-suite/
-│     ├── issues_report.pdf
+
 
 📚 10. **References**
 
